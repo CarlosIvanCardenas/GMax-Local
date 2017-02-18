@@ -1,0 +1,15 @@
+{
+  "name": "local",
+  "version": "1.0.0",
+  "description": "Local side app, arduino control",
+  "main": "local.js",
+  "scripts": {
+    "test": "lrun"
+  },
+  "author": "CarlosIvanCardenas",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.10.6",
+    "socket.io-client": "^1.7.3"
+  }
+}
